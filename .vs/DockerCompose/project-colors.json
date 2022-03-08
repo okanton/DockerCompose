@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4544ba1c-8451-4311-8379-ee91d8b27550": {
+      "ProjectGuid": "4544ba1c-8451-4311-8379-ee91d8b27550",
+      "DisplayName": "DockerCompose",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
